@@ -1,0 +1,36 @@
+
+ P1: Project Folder and Terminal Navigation
+
+ Commands Used
+1. pwd - Displays the current working directory.
+2. mkdir - Creates a new directory.
+3. cd - Changes the current directory.
+4. ls - Displays files and folders.
+5. touch - Creates a new file.
+
+ Practica1: Project Folder and Terminal Navigation
+
+ Commands Used
+1. pwd - Displays the current working directory.
+2. mkdir - Creates a new directory.
+3. cd - Changes the current directory.
+4. ls - Displays files and folders.
+5. touch - Creates a new file.
+
+ Practica 
+1. Check the current directory using pwd.
+2. Create a folder using mkdir.
+3. Enter the folder using cd.
+4. Display its contents using ls.
+5. Create a file using touch.
+
+## Result
+Successfully learned basic Terminal com
+1. Check the current directory using pwd.
+2. Create a folder using mkdir.
+3. Enter the folder using cd.
+4. Display its contents using ls.
+5. Create a file using touch.
+
+## Result
+Successfully learned basic Terminal commands and folder navigation.
