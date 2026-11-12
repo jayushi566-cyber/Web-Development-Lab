@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+ nav {
+    display: flex;
+    gap: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.social {
+    font-size: 14px;
+}
+
+
+main {
+    text-align: center;
+    padding: 100px ;
+}
+
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightblue;
+    padding: 15px;
+}

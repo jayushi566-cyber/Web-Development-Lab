@@ -1,0 +1,46 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    color: blue;
+}
+
+h2 {
+    font-size: 24px;
+    color: darkblue;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.box {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}

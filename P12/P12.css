@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.projects {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+}
+
+.project {
+    border: 1px solid black;
+    padding: 15px;
+    background-color: lightblue;
+}
+
+.big {
+    grid-column: span 2;
+}
